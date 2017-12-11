@@ -1,0 +1,8 @@
+Install Ubuntu 16.04
+Install ROS Kinetic
+Install Gazebo 8.1
+Install Gym and Gym Gazebo
+Install Open AI Gym
+Run the TurtlebotEnvironment2.py file. 
+To see  the simulation, use gzclient command which will open the running simulation in Gazebo. 
+Run the display_plot.py file to generate the graph.
