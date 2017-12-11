@@ -5,4 +5,4 @@ Install Gym.
 Install Open AI Gym
 Run the TurtlebotQlearn.py file. 
 To see  the simulation, use gzclient command which will open the running simulation in Gazebo. 
-Run the display_plot.py file to generate the graph.
+Run the Plot.py file to generate the graph.
